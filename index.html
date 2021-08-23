@@ -7,7 +7,7 @@
     <link href="https://tailwindcomponents.com/css/component.jetstream-dark-welcome.css" rel="stylesheet">
     <link rel="stylesheet" href="style.css">
 </head>
-<body class="h-full overflow-scroll flex items-center justify-center" style="background: #edf2f7;">
+<body class="relative h-full overflow-scroll flex items-center justify-center" style="background: #edf2f7;">
     <script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.x.x/dist/alpine.min.js" defer></script>
 
 <div class="w-full font-sans antialiased" x-data="{ darkMode: true, mobileMenu: false }" :class="{ 'dark': darkMode }">
@@ -504,5 +504,8 @@ If you would like to contribute to the initiative, you can find more information
         </main>
     </div>
 </div>
+<footer class="m-4  absolute bottom-0 right-0 text-gray-600 float-right">
+    By the <a class="text-indigo-600 hover:text-indigo-500" target="_blank" href="http://tutorialdoctor.github.io/">Tutorial Doctor</a>
+</footer>
 </body>
 </html>
