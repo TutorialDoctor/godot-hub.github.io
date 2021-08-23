@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 850 142" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1,0,0,1,-620,-77.0355)">
+        <g transform="matrix(1,0,0,1,-904.545,25.6846)">
+            <g transform="matrix(0.628656,0,0,0.528402,804.037,-257.198)">
+                <g transform="matrix(3.23059e-17,0.527596,-0.795328,4.86998e-17,1827.1,105.854)">
+                    <path d="M1255.22,704.143C1255.22,702.046 1253.96,700.035 1251.73,698.552C1249.5,697.07 1246.46,696.237 1243.3,696.237L1240.59,696.237C1230.09,696.237 1220.02,699.004 1212.59,703.929C1205.17,708.855 1201,715.536 1201,722.502L1201,829.976C1201,836.942 1205.17,843.623 1212.59,848.549C1220.02,853.474 1230.09,856.241 1240.59,856.241L1243.3,856.241C1246.46,856.241 1249.5,855.408 1251.73,853.926C1253.96,852.443 1255.22,850.432 1255.22,848.335L1255.22,704.143Z" style="fill:rgb(219,87,37);"/>
+                </g>
+                <g transform="matrix(4.64049e-17,0.75785,-0.641491,3.928e-17,1710.7,-186.732)">
+                    <path d="M1366.66,732.643C1366.66,724.195 1360.86,717.347 1353.71,717.347L1283.01,717.347L1283.01,747.942L1353.71,747.942C1360.86,747.942 1366.66,741.094 1366.66,732.646L1366.66,732.643Z" style="fill:rgb(219,87,37);"/>
+                </g>
+                <g transform="matrix(4.64049e-17,0.75785,-0.641491,3.928e-17,1646.07,-186.732)">
+                    <path d="M1366.66,732.643C1366.66,724.195 1360.86,717.347 1353.71,717.347L1283.01,717.347L1283.01,747.942L1353.71,747.942C1360.86,747.942 1366.66,741.094 1366.66,732.646L1366.66,732.643Z" style="fill:rgb(219,87,37);"/>
+                </g>
+                <g transform="matrix(4.86998e-17,0.795328,-0.65173,3.9907e-17,1727.61,-224.403)">
+                    <path d="M1213.89,723.348L1181.06,723.348C1150.38,723.348 1125.5,753.704 1125.5,791.15L1125.5,797.329C1125.5,834.775 1150.38,865.131 1181.06,865.131L1213.89,865.131L1213.89,723.348Z" style="fill:rgb(219,87,37);"/>
+                </g>
+            </g>
+        </g>
+        <g transform="matrix(1,0,0,1,-880.303,-825.44)">
+            <g transform="matrix(1,0,0,1,-24.1034,20.9793)">
+                <g transform="matrix(1,0,0,1,1645.44,1002.82)">
+                    <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:95.111px;fill:white;">godot</text>
+                </g>
+                <g transform="matrix(1,0,0,1,1883.46,1002.82)">
+                    <text x="0px" y="0px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:95.111px;fill:white;">3D</text>
+                </g>
+            </g>
+        </g>
+        <g transform="matrix(1,0,0,1,-308.039,-193.1)">
+            <g transform="matrix(1,0,0,1,1430.42,391.038)">
+                <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:168.901px;fill:rgb(219,87,37);">HUB</text>
+            </g>
+        </g>
+    </g>
+</svg>
