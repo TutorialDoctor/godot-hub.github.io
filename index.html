@@ -6,13 +6,15 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link href="https://tailwindcomponents.com/css/component.jetstream-dark-welcome.css" rel="stylesheet">
     <link rel="stylesheet" href="style.css">
+    <script src="https://cdn.tailwindcss.com"></script>
+
 </head>
-<body class="relative h-full overflow-scroll flex items-center justify-center" style="background: #edf2f7;">
+<body class="h-full overflow-scroll flex items-center justify-center" style="background: #edf2f7;">
     <script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.x.x/dist/alpine.min.js" defer></script>
 
 <div class="w-full font-sans antialiased" x-data="{ darkMode: true, mobileMenu: false }" :class="{ 'dark': darkMode }">
     <div class="min-h-screen bg-gray-100 dark:bg-gray-900">
-        <nav class="sticky z-50 top-0 bg-white border-b border-gray-100 dark:border-gray-700 dark:bg-gray-800">
+        <nav class="sticky top-0 bg-white border-b border-gray-100 dark:border-gray-700 dark:bg-gray-800">
             <!-- Primary Navigation Menu -->
             <div class="px-4 mx-auto max-w-7xl sm:px-6 lg:px-8">
                 <div class="flex justify-between h-16">
@@ -504,8 +506,5 @@ If you would like to contribute to the initiative, you can find more information
         </main>
     </div>
 </div>
-<footer class="m-4  absolute bottom-0 right-0 text-gray-600 float-right">
-    By the <a class="text-indigo-600 hover:text-indigo-500" target="_blank" href="http://tutorialdoctor.github.io/">Tutorial Doctor</a>
-</footer>
 </body>
 </html>
